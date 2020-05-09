@@ -1,0 +1,2 @@
+# ProportionalSelector
+按权重以指定概率/比例的方式获取元素的Java实现工具类
